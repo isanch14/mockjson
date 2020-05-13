@@ -1,0 +1,157 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "teamname": "Arizona Diamondbacks",
+      "worldseries": "1",
+      "wins": "1,763",
+      "losses": "1,801"
+    },
+    {
+      "id": 2,
+      "teamname": "Atlanta Braves",
+      "worldseries": "3",
+      "wins": "10,697",
+      "losses": "10,659"
+    },
+    {
+      "id": 3,
+      "teamname": "Baltimore Orioles",
+      "worldseries": "3",
+      "wins": "8,768",
+      "losses": "9,728"
+    },
+    {
+      "id": 4,
+      "teamname": "Boston Red Sox",
+      "worldseries": "9",
+      "wins": "9,602",
+      "losses": "8,908"
+    },
+    {
+      "id": 5,
+      "teamname": "Chicago Cubs",
+      "worldseries": "3",
+      "wins": "10,982",
+      "losses": "10,404"
+    },
+    {
+    "id": 6,
+      "teamname": "Chicago White Sox",
+      "worldseries": "3",
+      "wins": "9,283",
+      "losses": "9,215"
+    },
+    {
+      "id": 7,
+      "teamname": "Cincinnati Reds",
+      "worldseries": "5",
+      "wins": "10,599",
+      "losses": "10,393"
+    },
+    {
+      "id": 8,
+      "teamname": "Cleveland Indians",
+      "worldseries": "2",
+      "wins": "9,477",
+      "losses": "9,037"
+    },
+    {
+      "id": 9,
+      "teamname": "Colorado Rockies",
+      "worldseries": "0",
+      "wins": "2,033",
+      "losses": "2,280"
+    },
+    {
+      "id": 10,
+      "teamname": "Detroit Tigers",
+      "worldseries": "4",
+      "wins": "9,346",
+      "losses": "9,191"
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Mookie Betts",
+      "position": "Rightfielder",
+      "throws": "Right",
+      "bats": "Right",
+      "team": "Boston Red Sox"
+    },
+    {
+      "id": 2,
+      "name": "Mike Trout",
+      "position": "Centerfielder",
+      "throws": "Right",
+      "bats": "Right",
+      "team": "Los Angeles Angels"
+    },
+    {
+      "id": 3,
+      "name": "David Price",
+      "position": "Centerfielder",
+      "throws": "Left",
+      "bats": "Left",
+      "team": "Los Angeles Dodgers"
+    },
+    {
+      "id": 4,
+      "name": "Bryce Harper",
+      "position": "Rightfielder",
+      "throws": "Left",
+      "bats": "Right",
+      "team": "Philadelphia Phillies"
+    }
+  ],
+  "pitching": [
+    {
+      "id": 1,
+      "name": "Justin Verlander",
+      "position": "Pitcher",
+      "throws": "Right",
+      "wins": "21",
+      "team": "Houston Astros"
+    },
+    {
+      "id": 2,
+      "name": "Kirby Yates",
+      "position": "Pitcher",
+      "throws": "Right",
+      "saves": "41",
+      "team": "San Diego Padres"
+    },
+    {
+      "id": 3,
+      "name": "Gerrit Cole",
+      "position": "Pitcher",
+      "throws": "Right",
+      "strikeouts": "326",
+      "team": "Houston Astros"
+    }
+  ],
+  "hitting": [
+    {
+      "id": 1,
+      "name": "Mookie Betts",
+      "position": "Rightfielder",
+      "runs": "135",
+      "team": "Boston Red Sox"
+    },
+    {
+      "id": 2,
+      "name": "Whit Merrifield",
+      "position": "Second Base",
+      "hits": "206",
+      "team": "Kansas City Royals"
+    },
+    {
+      "id": 3,
+      "name": "Tim Anderson",
+      "position": "Shortstop",
+      "average": ".335",
+      "team": "Chicago White Sox"
+    }
+  ]
+}
